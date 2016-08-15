@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[method1 jenkin called]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17856" started-at="2016-08-15T13:35:26Z" finished-at="2016-08-15T13:35:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17856" started-at="2016-08-15T13:35:26Z" finished-at="2016-08-15T13:35:44Z">
+      <class name="zais.Demo2">
+        <test-method status="PASS" signature="method1()[pri:0, instance:zais.Demo2@1753acfe]" name="method1" duration-ms="17815" started-at="2016-08-15T19:05:26Z" finished-at="2016-08-15T19:05:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method1 jenkin called]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- zais.Demo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
